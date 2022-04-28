@@ -26,4 +26,4 @@ Rm 8, 28 🙏
 
 ## Snake eating my contribution graph
 
-![snake gif](https://github.com/YOUR_USERNAME/peregrinno/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/peregrinno/peregrinno/blob/output/github-contribution-grid-snake.gif)
