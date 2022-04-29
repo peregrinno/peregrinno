@@ -26,4 +26,4 @@ Rm 8, 28 🙏
 
 ## Minhas contribuições!
 
-![snake gif](https://github.com/peregrinno/peregrinno/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/peregrinno/peregrinno/blob/output/github-contribution-grid-snake.svg)
