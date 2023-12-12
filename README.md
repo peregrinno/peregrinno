@@ -1,11 +1,11 @@
 <!--
 **peregrinno/peregrinno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
 
 ### Opa, tudo bem? Me chamo Luan! 😉👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.araujo_ccr/)
-
 
 ![peregrinno GitHub stats](https://github-readme-stats.vercel.app/api?username=peregrinno&show_icons=true&theme=dracula)
 
@@ -24,7 +24,6 @@
 
 Rm 8, 28 🙏
 
-## Minhas contribuições!
+## Um apaixonado por tecnologia!
 
-![Snake animation]
-(https://github.com/peregrinno/peregrinno/blob/output/github-contribution-grid-snake.svg)
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif)https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif">
