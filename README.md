@@ -1,7 +1,7 @@
 <!--
 **peregrinno/peregrinno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div style="display: inline-block">
+<div>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
 </div>
 
@@ -28,7 +28,7 @@ Rm 8, 28 🙏
 
 ## Um apaixonado por tecnologia!
 
-<div style="display: inline-block">
+<div>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif)https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif">
 </div>
 
