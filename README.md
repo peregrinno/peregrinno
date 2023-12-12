@@ -2,7 +2,7 @@
 **peregrinno/peregrinno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div>
-<img  alt="Coding" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
+<img alt="Coding" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" style="Width: 100%">
 </div>
 
 ### Opa, tudo bem? Me chamo Luan! 😉👋
@@ -29,6 +29,6 @@ Rm 8, 28 🙏
 ## Um apaixonado por tecnologia!
 
 <div>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif)https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif">
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif)https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif">
 </div>
 
