@@ -3,7 +3,7 @@
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&duration=4500&pause=5000&color=2DBFFF&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Luan%2C+o+peregrinno.dev+)](https://git.io/typing-svg)
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/luanaraujodev/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-2DBFFFFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/luanaraujodev/)
 
 ![peregrinno GitHub stats](https://github-readme-stats.vercel.app/api?username=peregrinno&show_icons=true&theme=dracula)
 
