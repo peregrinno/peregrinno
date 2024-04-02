@@ -3,11 +3,16 @@
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&duration=4500&pause=5000&color=2DBFFF&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Luan%2C+o+peregrinno.dev+)](https://git.io/typing-svg)
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-2DBFFFFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/luanaraujodev/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-2EBFFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/luanaraujodev/)
 
-![peregrinno GitHub stats](https://github-readme-stats.vercel.app/api?username=peregrinno&show_icons=true&theme=dracula)
+<div style="display: inline-block">
 
-## Tecnologias que eu uso :)
+  ![peregrinno GitHub stats](https://github-readme-stats.vercel.app/api?username=peregrinno&show_icons=true&theme=transparent) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peregrinno&langs_count=8)
+
+</div>
+
+## Tecnologias que eu uso!
 
 <div style="display: inline-block"></br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
