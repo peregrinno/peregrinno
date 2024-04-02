@@ -8,7 +8,7 @@
 <div style="display: inline-block">
 
   ![peregrinno GitHub stats](https://github-readme-stats.vercel.app/api?username=peregrinno&show_icons=true&theme=transparent) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peregrinno&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peregrinno&layout=compact)
 
 </div>
 
