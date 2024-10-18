@@ -11,20 +11,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
+      # Gerar o GIF da snake
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: peregrinno
           gif_out_path: dist/snake.gif
+
+      # Carregar o arquivo GIF gerado como artefato (não é necessário se estiver só no README)
       - uses: actions/upload-artifact@v3
         with:
           name: snake-gif
           path: dist/snake.gif
+
+      # Atualizar o README.md com a animação Snake
+      - name: Update README.md with Snake Animation
+        run: |
+          sed -i '/<!-- snake -->/!b;n;c\![Snake animation](./dist/snake.gif)' README.md
+
+      # Fazer o push das alterações (GIF + README.md)
       - name: Push Snake Animation to GitHub
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.TOKEN }}
           branch: master
           force: true
-          commit_message: "Add Snake animation"
-          directory: dist
+          commit_message: "Update Snake animation in README"
+          directory: .
