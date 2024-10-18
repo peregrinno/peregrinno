@@ -16,9 +16,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peregrinno&layout=compact" alt="Top Langs" width="400" height="170"/>
 </p>
 
-<!-- snake -->
+
 <p align="center">
-  ![snake animation](https://github.com/peregrinno/peregrinno/blob/output/github-contribution-grid-snake2.svg)
+  <img src="https://github.com/peregrinno/peregrinno/blob/output/github-contribution-grid-snake2.svg"/>
 </picture>
 </p>
 
