@@ -1,9 +1,12 @@
 
+<!-- Saudações -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&duration=4500&pause=5000&color=2DBFFF&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Luan%2C+o+peregrinno.dev" alt="Typing SVG">
   </a>
 </p>
+
+<!-- Profile 3D -->
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/peregrinno/peregrinno/output-3d-contrib/night.svg" />
@@ -11,12 +14,18 @@
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/peregrinno/peregrinno/output-3d-contrib/day.svg" />
 	</picture>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peregrinno&show_icons=true&theme=transparent" alt="peregrinno GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peregrinno&layout=compact" alt="Top Langs" width="400" height="170"/>
-</p>
+
+<!-- Stats -->
+
+| [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=peregrinno&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peregrinno&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub By Repo](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peregrinno&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------- | ----------- | ----------- |
 
 
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=peregrinno&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peregrinno&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| ----------- | ----------- |
+
+
+<!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peregrinno/peregrinno/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peregrinno/peregrinno/output/github-contribution-grid-snake.svg">
@@ -24,7 +33,7 @@
 </picture>
 
 # Tecnologias que eu uso!
-
+<!-- Badges -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,django,fastapi,flask,aws,github,git,kubernetes,docker,linux,postgres,mongodb,html,css,bootstrap,jquery" />
@@ -40,6 +49,14 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+<hr style="height:1px;">
+
+<div align="center" >
+    <img media="(prefers-color-scheme: dark)"  src="https://github-profile-trophy.vercel.app/?username=peregrinno&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
+
+<hr style="height:1px;">
 
 <h2>Um apaixonado por tecnologia!</h2>
 <p align="center">
