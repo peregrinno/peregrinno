@@ -1,4 +1,6 @@
 <p align="center">
+  ![](./profile-3d-contrib/profile-green-animate.svg)
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&duration=4500&pause=5000&color=2DBFFF&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Luan%2C+o+peregrinno.dev" alt="Typing SVG">
   </a>
