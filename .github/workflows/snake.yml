@@ -1,41 +1,19 @@
-name: Generate Snake
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
 
-on:
-  schedule:
-    # Run at 12am UTC
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-
-      # Gerar o GIF da snake
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: peregrinno
-          gif_out_path: dist/snake.gif
-
-      # Carregar o arquivo GIF gerado como artefato (não é necessário se estiver só no README)
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake-gif
-          path: dist/snake.gif
-
-      # Atualizar o README.md com a animação Snake
-      - name: Update README.md with Snake Animation
-        run: |
-          sed -i '/<!-- snake -->/!b;n;c\![Snake animation](./dist/snake.gif)' README.md
-
-      # Fazer o push das alterações (GIF + README.md)
-      - name: Push Snake Animation to GitHub
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.TOKEN }}
-          branch: master
-          force: true
-          commit_message: "Update Snake animation in README"
-          directory: .
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
