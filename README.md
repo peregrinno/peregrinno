@@ -1,11 +1,16 @@
+
 <p align="center">
-  ![](./profile-3d-contrib/profile-customize.svg)
-  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&duration=4500&pause=5000&color=2DBFFF&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Luan%2C+o+peregrinno.dev" alt="Typing SVG">
   </a>
 </p>
-
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/peregrinno/peregrinno/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peregrinno/peregrinno/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/peregrinno/peregrinno/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=peregrinno&show_icons=true&theme=transparent" alt="peregrinno GitHub stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peregrinno&layout=compact" alt="Top Langs" width="400" height="170"/>
