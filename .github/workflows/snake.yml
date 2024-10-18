@@ -23,7 +23,7 @@ jobs:
       - name: Push Snake Animation to GitHub
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.TOKEN }}
           branch: master
           force: true
           commit_message: "Add Snake animation"
