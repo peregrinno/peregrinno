@@ -36,7 +36,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,django,fastapi,flask,aws,github,git,kubernetes,docker,linux,postgres,mongodb,html,css,bootstrap,jquery" />
+    <img src="https://skillicons.dev/icons?i=py,ruby,js,ts,django,fastapi,flask,aws,github,git,kubernetes,docker,linux,postgres,mongodb,react,html,css,bootstrap,jquery" />
   </a>
 </p>
 
